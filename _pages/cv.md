@@ -16,24 +16,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2020 - Present: Analyst at Goldman Sachs
+  * Full stack developer
+  * Data Engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan - July 2020: Intern at Goldman Sachs
+  * Full stack developer
+  * Built the Marcus Data Platform, a pipelining tool used to onboard data engineering workflows
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software development
+	* Python
+	* Angular
+* Data Engineering
+	* Pyspark
+	* Hadoop
+* Git
+	* CI/CD
 
 Publications
 ======
