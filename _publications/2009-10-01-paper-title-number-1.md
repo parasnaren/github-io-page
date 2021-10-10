@@ -8,7 +8,6 @@ venue: ' 2020 IEEE 5th International Conference on Computing Communication and A
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9250886'
 citation: 'Narendranath, Paras, et al. "Recognition of Named Entities and Categories in Text using Stacked Embeddings." 2020 IEEE 5th International Conference on Computing Communication and Automation (ICCCA). IEEE, 2020.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/9250886)
 
