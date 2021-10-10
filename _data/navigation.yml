@@ -8,4 +8,7 @@ main:
     
   - title: "Awards"
     url: /awards/
+    
+  - title:: "Fun"
+    url: /fun/
  

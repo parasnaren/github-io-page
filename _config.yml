@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paras Narendranath"
 title_separator          : "-"
 name                     : &name "Paras Narendranath"
-description              : &description "personal description"
+description              : &description "Data Engineer at Goldman Sachs"
 url                      : https://parasnaren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "parasnaren/parasnaren.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "Data Engineer at Goldman Sachs"
   location         : "Bangalore, India"
   employer         : Goldman Sachs
-  pubmed           : 
+  pubmed           : "https://publons.com/researcher/3822073/paras-narendranath/"
   googlescholar    : "https://scholar.google.com/citations?user=wyI1EDgAAAAJ&hl=en&oi=ao"
   email            : parasnaren1998@gmail.com
   researchgate     :  
