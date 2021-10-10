@@ -1,15 +1,15 @@
 ---
-title: "Hybrid Approach to Binary News Classification"
+title: "Recognition of Named Entities and Categories in Text using Stacked Embeddings"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-06-14
-venue: 'Journal 1'
-paperurl: 'http://sersc.org/journals/index.php/IJAST/article/view/20178'
-citation: 'Paras Narendranath, Anurag Pachauri, Roopa R. (2020). Hybrid Approach to Binary News Classification. International Journal of Advanced Science and Technology, 29(4s), 2367 - 2377'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2020-10-11
+venue: ' 2020 IEEE 5th International Conference on Computing Communication and Automation (ICCCA)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9250886'
+citation: 'Narendranath, Paras, et al. "Recognition of Named Entities and Categories in Text using Stacked Embeddings." 2020 IEEE 5th International Conference on Computing Communication and Automation (ICCCA). IEEE, 2020.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://sersc.org/journals/index.php/IJAST/article/view/20178/10263)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9250886)
 
-Recommended citation: Paras Narendranath, Anurag Pachauri, Roopa R. (2020). Hybrid Approach to Binary News Classification. International Journal of Advanced Science and Technology, 29(4s), 2367 - 2377
+Recommended citation: Narendranath, Paras, et al. "Recognition of Named Entities and Categories in Text using Stacked Embeddings." 2020 IEEE 5th International Conference on Computing Communication and Automation (ICCCA). IEEE, 2020.

@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Hybrid Approach to Binary News Classification"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2020-06-14
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'http://sersc.org/journals/index.php/IJAST/article/view/20178'
+citation: 'Paras Narendranath, Anurag Pachauri, Roopa R. (2020). Hybrid Approach to Binary News Classification. International Journal of Advanced Science and Technology, 29(4s), 2367 - 2377'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://sersc.org/journals/index.php/IJAST/article/view/20178/10263)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Paras Narendranath, Anurag Pachauri, Roopa R. (2020). Hybrid Approach to Binary News Classification. International Journal of Advanced Science and Technology, 29(4s), 2367 - 2377

@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Deep Reinforcement Learning based Intelligent Traffic Control System"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2021-04-29
+venue: 'Proceedings of the International Conference on Innovative Computing & Communication (ICICC) 2021'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969'
+citation: 'Narendranath, Paras, Dhanaraj Venkatramana Kidiyoor, and Sheela SV. "Deep Reinforcement Learning based Intelligent Traffic Control System." Available at SSRN 3834969 (2021).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3834969_code3635775.pdf?abstractid=3834969&mirid=1)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Narendranath, Paras, Dhanaraj Venkatramana Kidiyoor, and Sheela SV. "Deep Reinforcement Learning based Intelligent Traffic Control System." Available at SSRN 3834969 (2021).
