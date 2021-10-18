@@ -4,7 +4,7 @@ main:
     url: /publications/
         
   - title: "CV"
-    url: /cv/
+    url: https://parasnaren.github.io/files/ParasNarendranath-CV.pdf
     
   - title: "Awards"
     url: /awards/
