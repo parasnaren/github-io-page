@@ -9,6 +9,8 @@ main:
   - title: "Awards"
     url: /awards/
     
+  - title: "Projects"
+    url: /projects/
+    
   - title:: "Fun"
     url: /fun/
- 
