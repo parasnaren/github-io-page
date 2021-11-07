@@ -8,7 +8,7 @@ venue: 'Proceedings of the International Conference on Innovative Computing & Co
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969'
 ---
 
-[url](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969) [PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3834969_code3635775.pdf?abstractid=3834969&mirid=1) [GitHub](https://github.com/parasnaren/AI-Traffic-Light-Control)
+[[url]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969) [[PDF]](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3834969_code3635775.pdf?abstractid=3834969&mirid=1) [[GitHub]](https://github.com/parasnaren/AI-Traffic-Light-Control)
 
 ### Abstract
 
