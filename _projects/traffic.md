@@ -1,10 +1,10 @@
 ---
-title: "Category and Name Entity Recognition"
+title: "AI Traffic Light Control"
 collection: projects
-excerpt: "NLP Model"
+excerpt: "Reinforcement Learning Model"
 ---
 
-[[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition)
+[[GitHub]](https://github.com/parasnaren/AI-Traffic-Light-Control)
 
 Program that performs named entity and category recognition on English sentences. We provide a User Interface that takes sentences as input. We developed 2 models that independently perform both tasks simultaneously on the input from the UI.
 

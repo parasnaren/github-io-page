@@ -1,5 +1,5 @@
 ---
-title: "Category and Name Entity Recognition"
+title: "Category-and-Name-Entity-Recognition"
 collection: projects
 excerpt: "NLP Model"
 ---
