@@ -7,6 +7,7 @@ date: 2020-10-11
 venue: 'IEEE 5th International Conference on Computing Communication and Automation (ICCCA)'
 ---
 
+[url](https://ieeexplore.ieee.org/abstract/document/9250886) [GitHub](https://github.com/parasnaren/Category-and-Name-Entity-Recognition)
 
 ### Abstract
 
