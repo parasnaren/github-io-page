@@ -3,6 +3,7 @@ title: "Emergency Vehicle Detection"
 collection: projects
 ---
 
+
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition)
 
 A image detection model that is used to differentiate between regular vehicles and emergency vehicles.
