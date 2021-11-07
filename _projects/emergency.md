@@ -1,12 +1,11 @@
 ---
-title: "Category-and-Name-Entity-Recognition"
+title: "Emergency Vehicle Detection"
 collection: projects
-excerpt: "NLP Model"
+excerpt: "Computer Vision"
 ---
 
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition)
 
-Program that performs named entity and category recognition on English sentences. We provide a User Interface that takes sentences as input. We developed 2 models that independently perform both tasks simultaneously on the input from the UI.
+A image detection model that is used to differentiate between regular vehicles and emergency vehicles.
 
-- Named Entities are colored by the corresponding tags that they belong
-- Categories are displayed at the bottom in Black
+Model is developed using the Inception-v3 model weights. Custom output layers are trained on the images, by freezing the pre-trained weights. Validation accuracy of ~95% is achieved.

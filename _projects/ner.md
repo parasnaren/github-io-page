@@ -1,7 +1,7 @@
 ---
 title: "Category and Name Entity Recognition"
 collection: projects
-excerpt: "NLP Model"
+excerpt: "Natural Language Processing"
 ---
 
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition)
