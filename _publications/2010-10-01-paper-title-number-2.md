@@ -6,8 +6,9 @@ excerpt: ''
 date: 2021-04-29
 venue: 'Proceedings of the International Conference on Innovative Computing & Communication (ICICC)'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969'
+citation: 'Narendranath, Paras, Dhanaraj Venkatramana Kidiyoor, and Sheela SV. "Deep Reinforcement Learning based Intelligent Traffic Control System." Available at SSRN 3834969 (2021).'
 ---
 
 [Download paper here](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3834969_code3635775.pdf?abstractid=3834969&mirid=1)
 
-<b>Narendranath, Paras</b>, Dhanaraj Venkatramana Kidiyoor, and Sheela SV. "Deep Reinforcement Learning based Intelligent Traffic Control System." Available at SSRN 3834969 (2021).
+
