@@ -1,7 +1,6 @@
 ---
 title: "Emergency Vehicle Detection"
 collection: projects
-excerpt: "Computer Vision"
 ---
 
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition)

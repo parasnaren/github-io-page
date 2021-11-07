@@ -1,7 +1,6 @@
 ---
 title: "AI Traffic Light Control"
 collection: projects
-excerpt: "Reinforcement Learning Model"
 ---
 
 [[GitHub]](https://github.com/parasnaren/AI-Traffic-Light-Control)
