@@ -7,5 +7,3 @@ date: 2020-06-14
 venue: 'International Journal of Advanced Science and Technology'
 paperurl: 'http://sersc.org/journals/index.php/IJAST/article/view/20178'
 ---
-
-[Download paper here](http://sersc.org/journals/index.php/IJAST/article/view/20178/10263)
