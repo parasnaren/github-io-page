@@ -17,7 +17,7 @@ author_profile: true
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969)
 
 - Detection of Negation in Text
-[[GitHub]](https://github.com/parasnaren/Detection-of-Negation-in-Text) [[Hackathon]]
+[[GitHub]](https://github.com/parasnaren/Detection-of-Negation-in-Text) [[Hackathon]](https://parasnaren.github.io/images/philips.jfif)
 
 - Real-time face recognition and intrusion alertion
 [[GitHub]](https://github.com/parasnaren/Real-Time-Face-Recognition-and-Intrusion-Alert)
