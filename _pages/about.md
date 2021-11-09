@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<hr>
 
 I am a <b>Data Engineer</b> and <b>Full stack developer</b> currently working as an Analyst at <b><a href="https://www.goldmansachs.com/" target="_blank">Goldman Sachs</a></b>. I build data pipelines and develop the data platform that powers the US Lending workflows at <b><a href="https://www.marcus.com/us/en" target="_blank">Marcus Bank</a></b>, Goldman Sachs
 
