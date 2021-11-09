@@ -4,5 +4,5 @@ collection: awards
 ---
 ---
 
-![ibm](https://parasnaren.github.io/images/ibm.jfif)
+<img src="https://parasnaren.github.io/images/ibm.jfif" width="800"/>
 

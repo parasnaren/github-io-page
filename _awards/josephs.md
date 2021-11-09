@@ -4,5 +4,5 @@ collection: awards
 ---
 ---
 
-![josephs](https://parasnaren.github.io/images/stjosephs.jpeg)
+<img src="https://parasnaren.github.io/images/stjosephs.jpeg" width="800"/>
 
