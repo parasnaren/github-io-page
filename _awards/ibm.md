@@ -1,5 +1,5 @@
 ---
-title: "Best Paper Award, International Conference On Computational Intelligence & Data Science."
+title: "Best Model Presentation at the IBM Hackathon, Indian Institute of Science."
 collection: awards
 ---
 
