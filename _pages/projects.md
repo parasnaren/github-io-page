@@ -4,8 +4,7 @@ title: "Projects"
 author_profile: true
 ---
 
-- <b>AI Traffic Light Control</b>| <i>Reinforcement Learning</i>
-[[GitHub]](https://github.com/parasnaren/AI-Traffic-Light-Control) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9250886)
+- <b>AI Traffic Light Control</b> &#124; <i>Reinforcement Learning</i> &#124; [[GitHub]](https://github.com/parasnaren/AI-Traffic-Light-Control) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9250886)
 
 - <b>Category and Name Entity Recognition</b> | <i>Natural Language Processing</i>
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969)
