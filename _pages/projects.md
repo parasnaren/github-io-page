@@ -10,7 +10,7 @@ author_profile: true
 - <b>Category and Name Entity Recognition</b> | <i>Natural Language Processing</i>
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969)
 
-- <b>Image Synthesis from Voice</b> | GAN, Speech-to-text
+- <b>Image Synthesis from Voice</b> | <i>GAN, Speech-to-text</i>
 
 [[GitHub]](https://github.com/parasnaren/Image-Synthesis-from-Voice)
 
