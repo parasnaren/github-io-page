@@ -1,9 +1,8 @@
 ---
-title: "Winner of the Big Data Hackathon, St. Joesphs."
+title: "Winner of the Big Data Hackathon, St. Josephs."
 collection: awards
 ---
-
-Conducted by St. Josephs
+---
 
 ![josephs](https://parasnaren.github.io/images/stjosephs.jpeg)
 
