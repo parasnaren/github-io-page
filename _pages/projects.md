@@ -11,7 +11,6 @@ author_profile: true
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969)
 
 - <b>Image Synthesis from Voice</b> | <i>GAN, Speech-to-text</i>
-
 [[GitHub]](https://github.com/parasnaren/Image-Synthesis-from-Voice)
 
 - Remote Processing based RC Scanning module | Computer Vision, Natural Language Processing
