@@ -178,12 +178,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  fun:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults

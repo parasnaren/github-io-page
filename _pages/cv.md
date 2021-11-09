@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="parasnaren.github.io/files/ParasNarendranathCV.pdf" target="_blank">Curriculum Vitae</a>
+Here is my <a href="https://parasnaren.github.io/files/ParasNarendranath-CV.pdf" target="_blank">Curriculum Vitae</a>
