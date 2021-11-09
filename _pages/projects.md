@@ -11,13 +11,13 @@ author_profile: true
 [[GitHub]](https://github.com/parasnaren/AI-Traffic-Light-Control) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9250886)
 
 - Remote Processing based RC Scanning module
-[[GitHub]](https://github.com/parasnaren/Automated-Remote-Proccessing-Scanning-and-OCR-module) [[Hackathon]]
+[[GitHub]](https://github.com/parasnaren/Automated-Remote-Proccessing-Scanning-and-OCR-module) [[Hackathon]](https://parasnaren.github.io/awards/riskcovry/)
 
 - Category and Name Entity Recognition
 [[GitHub]](https://github.com/parasnaren/Category-and-Name-Entity-Recognition) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3834969)
 
 - Detection of Negation in Text
-[[GitHub]](https://github.com/parasnaren/Detection-of-Negation-in-Text) [[Hackathon]](https://parasnaren.github.io/images/philips.jfif)
+[[GitHub]](https://github.com/parasnaren/Detection-of-Negation-in-Text) [[Hackathon]](https://parasnaren.github.io/awards/philips/)
 
 - Real-time face recognition and intrusion alertion
 [[GitHub]](https://github.com/parasnaren/Real-Time-Face-Recognition-and-Intrusion-Alert)
