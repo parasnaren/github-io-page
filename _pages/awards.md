@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 - Winner of the Philips Data Science Hackathon
-![philips](https://parasnaren.github.io/images/philips.jfif)
+<img src="https://parasnaren.github.io/images/philips.jfif" alt="philips" width="200"/>
 
 - Best Paper Award, International Conference On Computational Intelligence & Data Science.
 
