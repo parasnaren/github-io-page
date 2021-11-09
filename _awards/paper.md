@@ -3,4 +3,4 @@ title: "Best Paper Award, International Conference On Computational Intelligence
 collection: awards
 ---
 
-![paper]("https://parasnaren.github.io/images/paper.jpg")
+![paper](https://parasnaren.github.io/images/paper.jpg)

@@ -3,5 +3,5 @@ title: "Best Paper Award, International Conference On Computational Intelligence
 collection: awards
 ---
 
-![ibm]("https://parasnaren.github.io/images/ibm.jfif")
+![ibm](https://parasnaren.github.io/images/ibm.jfif)
 
