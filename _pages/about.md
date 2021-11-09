@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a <b>Data Engineer</b> and <b>Full stack developer</b> currently working as an Analyst at <b><a href="https://www.goldmansachs.com/" target="_blank">Goldman Sachs</a></b>. I build data pipelines and develop the data platform that powers the US Lending workflows at <a href="https://www.marcus.com/us/en" target="_blank">Marcus Bank</a>, Goldman Sachs
+I am a <b>Data Engineer</b> and <b>Full stack developer</b> currently working as an Analyst at <b><a href="https://www.goldmansachs.com/" target="_blank">Goldman Sachs</a></b>. I build data pipelines and develop the data platform that powers the US Lending workflows at <b><a href="https://www.marcus.com/us/en" target="_blank">Marcus Bank</a></b>, Goldman Sachs
 
 I completed my undergraduate in  <b>Information Science</b> at <b><a href="https://www.bmsce.ac.in/" target="_blank">BMS College of Engineering</a></b>, graduating 3rd in my class of 2020 <b><i>(CGPA: 9.6)</i></b>. My research interests include Natural Language Processing and Reinforcement Learning. At BMSCE, I co-founded the <b>ISE Student Club</b> and served as the <b>Technical Lead</b> between 2019-2020. From a cultural standpoint, I also served as the <b>Coordinator and Head</b> of the College Dance team.
 
