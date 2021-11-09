@@ -4,7 +4,7 @@ title: "Projects"
 author_profile: true
 ---
 
-- Image Synthesis from Voice
+- <b>Image Synthesis from Voice</b>
 [[GitHub]](https://github.com/parasnaren/Image-Synthesis-from-Voice)
 
 - AI Traffic Light Control
