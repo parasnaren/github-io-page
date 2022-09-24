@@ -10,7 +10,7 @@ redirect_from:
 
 <hr>
 
-I am a Computer Science gradute student at the <b>University of Southern California<b>, currently taking up courses: Analysis of Algorithms and Database Systems.
+I am a Computer Science gradute student at the <b>University of Southern California</b>, currently taking up courses: Analysis of Algorithms and Database Systems.
 
 Formerly, I worked as as <b>Full stack developer</b> and <b>Data Engineer</b> at <b><a href="https://www.goldmansachs.com/" target="_blank">Goldman Sachs</a></b>. I built data pipelines and developed the data platform application that powers the US Consumer Lending workflows at <b><a href="https://www.marcus.com/us/en" target="_blank">Marcus Bank</a></b>, Goldman Sachs
 
